@@ -95,10 +95,10 @@ button:hover {
       <p> <strong>Meninos:</strong> <em> sou menino masculino diferente do meninas!</em> </p>
       <p> <strong>Meninas:</strong> <em> sou menina feminina diferente dos meninos!</em> </p> 
       <p> <strong>Todos:</strong> <em> 
-        <strong>E isso e legal, me aceito como sou, O nosso adversario quer deixar as crianças, adolecentes, jovens tristes e angustiados sem aceitar o próprio corpo, que e presente de Deus, templo e morada do espírito santo.</strong>
+        <strong>E isso e legal, me aceito como sou, O nosso adversario quer deixar as crianças, adolecentes, jovens tristes e angustiados sem aceitar o próprio corpo, que é presente de Deus, templo e morada do espírito santo.</strong>
         </em> </p>      
-      <p> <strong>Meninas:</strong> <em> antes de mesmo de te formar, no ventre materno eu te escolhi, antes que vinhesse ao mundo, eu te separei diz o senhor!</em> </p>
-      <p> <strong>Meninos:</strong> <em> Somos meninnos corajosos, assim como Davi que usado po Deus, enfrentou e venceu o gigante Golias.</em> </p>
+      <p> <strong>Meninas:</strong> <em> antes mesmo de te formar, no ventre materno eu te escolhi, antes que vinhesse ao mundo, eu te separei diz o senhor!</em> </p>
+      <p> <strong>Meninos:</strong> <em> Somos meninos corajosos, assim como Davi que usado po Deus, enfrentou e venceu o gigante Golias.</em> </p>
   <p> <strong>Meninas:</strong> <em> somos meninas, escolhidas por Deus assim como Maria a mãe do nosso salvador.</em> </p>
       <p> <strong>Todos:</strong> <em>
         <strong> somos todos chamados e escolhidos por Deus assim como os heróis da fé para fazer a diferença e dizer ao mundo que nosso Deus para a sua vida</strong>
