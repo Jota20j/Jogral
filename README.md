@@ -105,9 +105,6 @@ button:hover {
       </em> </p>
   <p> <strong>Meninos:</strong> <em> Deus te formou com muito carinho e amor, e se você é um menino um homem fique feliz por isso. Porque foi escolha de Deus</em> </p>
   <p> <strong>Meninas:</strong> <em> se você é uma menina, mulher, fique alegre com essa linda escolha de Deus, se aceitem, pois você é obra perfeita de Deus</em> </p>
-  <p> <strong>Todos:</strong> <em>
-        <strong> fomos chamados e escolhidos por Deus, assim como heróis da fé para fazer a diferença a dizer ao mundo que o nosso Deus não erra...</strong>
-      </em> </p>
   <p> <strong>1 fila:</strong> <em> a nossa alegria não está em mudar a nossa indentidade.</em> </p>
 <p> <strong>2 fila:</strong> <em> pois ele nos enviou o seu único filho jesus, para perdoar todo pecado do mundo, por que ele despreza o pecado, mas ama o pecador.</em> </p>  
 <p> <strong>3 fila:</strong> <em> e veio trazer liberdade ao cativo. nos dando perdão, salvação, justiça, abrigo e amor</em> </p>  
