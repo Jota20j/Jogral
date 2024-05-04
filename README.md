@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<<!DOCTYPE html>
 <html>
 <head>
 <script>
@@ -63,13 +63,13 @@ button:hover {
 </head>
 <body>
 
-<h1><strong>JOGRAL AREA 3</strong></h1>
+<h1><strong>JOGRAL ÁREA 03</strong></h1>
 
 <button onclick="alternarJogral()"><strong>Clique para ver/ocultar o Jogral</strong></button>
 
 <div id="textoJogral">
   <h2>
-    <p> <STRONG>Meninos:</STRONG> <em> sou menino diferente das meninas!</em> </p>
+    <p> <STRONG>Meninos:</STRONG> <em> sou menino masculino diferente das meninas!</em> </p>
         <p> <strong>Meninas:</strong> <em> sou menina feminina diferente dos meninos!</em> </p>
       <p> <strong>Meninos:</strong> <em> sou menino! menino masculino!</em> </p>
       <p> <strong>Meninas:</strong> <em> sou menina! menina feminina!</em> </p>
@@ -85,7 +85,7 @@ button:hover {
         <p> <strong>Todos:</strong> <em>
           <strong> Deus de toda terra e céu, que nunca comete erros, ele sabe sempre, O que e melhor pra nós. E criou Deus o homem à sua imagem, à imagem de Deus o criou, macho e fêmea o criou... Nosso gênero vem de Deus.</strong>
         </em> </p>
-        <p> <strong>2 fila:</strong> <em> por que os adultos falam tanto sobre ess assunto, e algo tão simples de entender</strong> 
+        <p> <strong>2 fila:</strong> <em> por que os adultos falam tanto sobre esse assunto, e algo tão simples de entender</strong> 
         </em> </p>
       <p> <strong>Todos:</strong> <em>
         <strong> Nosso Deus não e Deus de confusão e sua palavra é sim sim, não não</strong>
@@ -95,10 +95,10 @@ button:hover {
       <p> <strong>Meninos:</strong> <em> sou menino masculino diferente do meninas!</em> </p>
       <p> <strong>Meninas:</strong> <em> sou menina feminina diferente dos meninos!</em> </p> 
       <p> <strong>Todos:</strong> <em> 
-        <strong>E isso e legal, me aceito como sou, O nosso adversario quer deixar as crianças, adolecentes, jovens tristes e angustiados sem aceitar o próprio corpo, que é presente de Deus, templo e morada do espírito santo.</strong>
+        <strong>E isso é legal, me aceito como sou, O nosso adversário quer deixar as crianças, adolecentes, jovens tristes e angustiados sem aceitar o próprio corpo, que e presente de Deus, templo e morada do espírito santo.</strong>
         </em> </p>      
       <p> <strong>Meninas:</strong> <em> antes mesmo de te formar, no ventre materno eu te escolhi, antes que vinhesse ao mundo, eu te separei diz o senhor!</em> </p>
-      <p> <strong>Meninos:</strong> <em> Somos meninos corajosos, assim como Davi que usado po Deus, enfrentou e venceu o gigante Golias.</em> </p>
+      <p> <strong>Meninos:</strong> <em> Somos meninnos corajosos, assim como Davi que usado po Deus, enfrentou e venceu o gigante Golias.</em> </p>
   <p> <strong>Meninas:</strong> <em> somos meninas, escolhidas por Deus assim como Maria a mãe do nosso salvador.</em> </p>
       <p> <strong>Todos:</strong> <em>
         <strong> somos todos chamados e escolhidos por Deus assim como os heróis da fé para fazer a diferença e dizer ao mundo que nosso Deus para a sua vida</strong>
@@ -125,4 +125,119 @@ button:hover {
 </body>
 </html>
 
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+<meta charset="UTF-8">
+<title>Botão de Reportar</title>
+<style>
+    .container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+    }
+    .botao-reportar {
+        padding: 10px 20px;
+        font-size: 16px;
+        cursor: pointer;
+        color: #fff;
+        background-color: #f44336;
+        border: none;
+        border-radius: 5px;
+        transition: background-color 0.3s;
+    }
+    .botao-reportar:hover {
+        background-color: #d73833;
+    }
+</style>
+</head>
+<body>
 
+<div class="container">
+    <!-- Botão de Reportar -->
+    <a href="mailto:jonatasdavi499@gmail.com?subject=Reportar%20um%20Problema&body=Olá%2C%20por%20favor%20descreva%20o%20problema%20que%20você%20encontrou." class="botao-reportar">Reportar</a>
+</div>
+
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Botão de Comentário Estilo YouTube</title>
+<style>
+  body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+  }
+
+  .comment-dropdown {
+    position: relative;
+    display: inline-block;
+    margin: 50px;
+  }
+
+  .comment-btn {
+    background-color: #FF0000;
+    color: white;
+    padding: 10px 15px;
+    font-size: 14px;
+    border: none;
+    cursor: pointer;
+    border-radius: 2px;
+    transition: all 0.3s ease;
+  }
+
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #fff;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    border-radius: 2px;
+    overflow: hidden;
+    z-index: 1;
+  }
+
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    transition: background-color 0.3s ease;
+  }
+
+  .dropdown-content a:hover {
+    background-color: #f1f1f1;
+  }
+
+  .comment-dropdown:hover .dropdown-content {
+    display: block;
+  }
+
+  .comment-dropdown:hover .comment-btn {
+    background-color: #C00;
+  }
+</style>
+</head>
+<body>
+
+<div class="comment-dropdown">
+  <button class="comment-btn">Opções</button>
+  <div class="dropdown-content">
+    <a href="#">Gostei</a>
+    <a href="#">Não gostei</a>
+    <a href="#">Responder</a>
+    <a href="#">Denunciar</a>
+    <a href="#">Esconder</a>
+  </div>
+</div>
+
+</body>
+</html>
